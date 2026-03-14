@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Siddharth%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Siddharth%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Passionate%20about%20building%20AI%20systems%2C%20modern%20web%20apps%2C%20and%20data-driven%20solutions&descAlignY=58&descSize=15&descColor=c4b5fd&animation=fadeIn" />
 
 </div>
 
@@ -9,9 +8,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+for+the+web;Exploring+machine+learning;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+web+applications;Turning+data+into+decisions;Full+Stack+%2B+Machine+Learning+%2B+Problem+Solving)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
@@ -59,25 +60,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thesidyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesidyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=6" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thesidyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="60%" alt="GitHub Stats"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesidyy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="60%" alt="Top Languages"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=thesidyy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=thesidyy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" alt="GitHub Streak"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesidyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesidyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&area_color=7c3aed&line=a78bfa&point=c4b5fd" width="92%" alt="Contribution Graph"/>
 
 </div>
 
@@ -87,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thesidyy&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" width="95%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thesidyy&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" width="92%" alt="Trophies"/>
 
 </div>
 
